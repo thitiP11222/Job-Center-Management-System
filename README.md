@@ -1,6 +1,6 @@
 # Project Phase 2: Job Center Management System  
 
-![Home page Mockup](https://github.com/ICT-Mahidol/2024-ITDS262-2-FunFizz/blob/master/phase-2/src/mock-up.png)
+![Home page Mockup](https://github.com/thitiP11222/Job-Center-Management-System/blob/main/src/mock-up.png)
 
 Welcome to the repository for the **Job Center Management System** Phase 2. This repository contains all essential documents, diagrams, and resources to support the development and analysis of the system. Below is a detailed guide to the repository’s structure and content.  
 
