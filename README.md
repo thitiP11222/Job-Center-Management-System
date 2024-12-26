@@ -1,26 +1,26 @@
-# Job Center Management System
+# Project Phase 2: Job Center Management System  
 
-## Project Overview
-The **Job Center Management System** is a comprehensive platform designed to streamline job search and recruitment processes. This project focuses on gathering and analyzing requirements, designing system models, and testing to ensure the platform aligns with client needs and delivers efficient and secure solutions.
+![Home page Mockup](https://github.com/ICT-Mahidol/2024-ITDS262-2-FunFizz/blob/master/phase-2/src/mock-up.png)
 
-## Project Artifacts
-The following deliverables are included in this project to demonstrate system analysis, design, and testing processes:
+Welcome to the repository for the **Job Center Management System** Phase 2. This repository contains all essential documents, diagrams, and resources to support the development and analysis of the system. Below is a detailed guide to the repository’s structure and content.  
 
-### 1. **System Analysis**
-- **Data Flow Diagram (DFD):** Illustrates the flow of data within the system, including interactions between users and processes.
-- **Use Case Model:** Defines the key functionalities of the system and interactions between actors and use cases.
+## 📂 Submission Files  
 
-### 2. **System Design**
-- **Mendix Prototype:** A low-code prototype created using Mendix to visualize the system's user interface and workflows.
-- **Functional and Non-Functional Requirements:**
-  - **Functional Requirements:** Specifies the core features of the system, such as job search, job posting management, and user authentication.
-  - **Non-Functional Requirements:** Outlines performance, scalability, and security expectations for the system.
+This repository is organized for ease of use and seamless navigation. The key files and resources are outlined below:  
 
-### 3. **Testing**
-- **Test Cases:** Comprehensive test cases were developed to validate system functionalities and ensure compliance with requirements. The tests cover key scenarios, 
+| **File/Folder**                     | **Description**                                                                                       |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `📄 Project Report `               |[**📄 Read the Project Report Here**](https://github.com/ICT-Mahidol/2024-ITDS262-2-FunFizz/blob/master/phase-2/Job%20Center%20Management%20Report%20Phase2.pdf)  |
+| `🎥 Project Presentation Video`    | [**📹 Watch the Presentation Video Here**](https://youtu.be/b9vdsrM6hVM)  |
+| `⚙️ Mendix Project Files`          | [**🌐 Download Here**](https://drive.google.com/file/d/1eSP8roTynD0i3elJ3QdDvatG1PpP-WUU/view?usp=sharing)                                                    |
 
-## Project Highlights
-- **Requirement Engineering:** Focused on gathering, analyzing, and managing requirements to align with client specifications.
-- **Model-Driven Development:** Utilized Mendix for rapid prototyping and visualization of the system.
-- **Comprehensive Testing:** Designed detailed test cases to validate functionality and ensure system reliability.
+---
 
+### 📝 Additional Notes  
+
+- **Project Report:** Detailed documentation of Phase 2 deliverables can be found in `Job Center Management System Phase2.pdf`.  
+- **Revision Log:** All modifications and updates are tracked in `RevisionLog.md`.  
+- **Resource Directory:** The `src/` folder contains additional resources such as images and diagrams.  
+- **Repository Guide:** Refer to the `README.md` file for detailed navigation instructions and project setup guidelines.  
+
+---
